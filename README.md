@@ -2,7 +2,7 @@
 
 
 ## 1. Introduction
-This report presents an analysis of Instagram post engagement through topic modeling of labels derived from images using Google Vision. The analysis is based on a sample of 296 posts containing a total of 1522 images. The goal is to identify which topics correlate with higher engagement, defined as the number of comments. This information can guide content strategy to increase engagement on the platform.
+This report presents an analysis of Instagram post engagement through topic modeling of labels derived from images using Google Vision. The analysis is based on a sample of 296 posts containing a total of 1522 images. The goal is to identify which topics are associated with higher engagement, defined as the number of comments. This information can guide content strategy to increase engagement on the platform.
 
 ## 2. Methodology
 Labels were first obtained for each image using Google Vision API, the dataset was then subjected to topic modeling to extract prevalent themes from the labels obtained via Google Vision on each image. Latent Dirichlet Allocation (LDA) was employed to categorize the captions into eight distinct topics. Each image was assigned a distribution across these topics. For efficiency, not all images were analyzed. Instead, a representative sample was chosen to expedite the computation and ensure manageability.
@@ -34,9 +34,9 @@ The following table shows the average topic weights for posts with high and low 
 
 ## 5. Recommendations
 Based on the analysis, the following strategies are recommended to increase engagement:
-- Increase the frequency of posts related to **Sports and Athletic Wear** and **Digital Content and Branding**, as these topics are strongly associated with high engagement.
-- Consider diversifying content to include more topics related to **Nature and Outdoors** and **Formal Events and Fashion** which also show potential for high engagement.
-- Review the content strategy for **Casual Wear and Happy Moments** and **Food and Cuisine** as these topics show higher weights in low engagement posts.
+- Increase the frequency of posts related to **Sports and Athletic Wear** and **Formal Events and Fashions**, as these topics are strongly associated with high engagement.
+- Consider diversifying content to include more topics related to **Nature and Outdoors** and **Outdoor Leisure and Vision** which also show potential for high engagement.
+- Review the content strategy for **Nature and Outdoor**, **Musical Events and Performance**, and **Food and Cuisine** as these topics show higher weights in low engagement posts.
 
 ## 6. Conclusion
 This analysis provides a clear indication of which topics are most likely to engage an Instagram audience. By strategically focusing on these topics, it is possible to enhance overall engagement on the platform.
