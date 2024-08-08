@@ -19,7 +19,7 @@ Below are the topics extracted from the analysis, with key words representing ea
 - **Food and Cuisine:** Food, Ingredient, Recipe, Cuisine.
 
 ## 4. Engagement Analysis
-The following table shows the average topic weights for posts with high and low engagement. High engagement posts are those in the top 25% of comments, while low engagement posts fall in the bottom 25%.
+The following table shows the average topic weights for posts with high and low engagement. In other words, the probabibilties of posts, whether high engagement or low engagement, to belong to a topic. High engagement posts are those in the top 25% of the number of comments garnered, while low engagement posts fall in the bottom 25%.
 
 | Topic                            | High Engagement Avg Weights | Low Engagement Avg Weights |
 |----------------------------------|-----------------------------|----------------------------|
@@ -36,7 +36,7 @@ The following table shows the average topic weights for posts with high and low 
 Based on the analysis, the following strategies are recommended to increase engagement:
 - Increase the frequency of posts related to **Sports and Athletic Wear** and **Formal Events and Fashions**, as these topics are strongly associated with high engagement.
 - Consider diversifying content to include more topics related to **Nature and Outdoors** and **Outdoor Leisure and Vision** which also show potential for high engagement.
-- Review the content strategy for **Nature and Outdoor**, **Musical Events and Performance**, and **Food and Cuisine** as these topics show higher weights in low engagement posts.
+- Review the content strategy for **Casual Wear and Happy Moments**, **Digital Content and Branding**, and **Food and Cuisine** as these topics show higher weights in low engagement posts.
 
 ## 6. Conclusion
 This analysis provides a clear indication of which topics are most likely to engage an Instagram audience. By strategically focusing on these topics, it is possible to enhance overall engagement on the platform.
